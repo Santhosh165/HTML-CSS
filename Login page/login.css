@@ -1,0 +1,37 @@
+body {
+ background-color: #f2d89b;
+}
+.btn{
+  width:60px;
+  height:30px;
+  background-color:#045fd6;
+}
+input {
+   width:200px;
+  height:30px;
+  border-radius:9px;
+}
+.ip {
+   width:500px;
+  height:30px;
+  border-radius:9px;
+}
+.c{
+  margin-right:450px;
+}
+.lft{
+  margin-right:450px;
+}
+.rig,.rig1{
+  display:inline-block;
+}
+.rig{
+  margin-left:80%;
+}
+.rig1{
+  margin-left:3%;
+}
+
+.lft1{
+  margin-right:31%;
+}
